@@ -15,3 +15,5 @@ if (num_user == num3) {
 } else {
     console.log("O número " + num_user + " não está na sequência de Fibonacci. ")
 }
+
+//0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 
